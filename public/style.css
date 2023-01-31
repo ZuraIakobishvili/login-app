@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    padding: 5%;
+}
+
+form {
+    max-width: 60%;
+}
+
+.crud {
+    display:flex;
+}
+
